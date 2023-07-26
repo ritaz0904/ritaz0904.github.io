@@ -1,0 +1,13 @@
+---
+title: "Isoperimetric surface technique & Volumne Comparison theorems"
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-4-12-Isoperimetric-surface-technique-&-Volumne-Comparison-theorems 
+venue: "[Student Geometric & Analysis Seminar (Spring 2023): Scalar Curvature and Dihedral Rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html)"
+date: 2023-4-12
+location: "Columbia University"
+---
+
+In this talk, we will discuss the isoperimetric surface technique that was developed by Professor Hubert Bray in his PhD thesis. In particular, we are going to use such technique to study volume comparison theorems for positively curved manifolds, which includes a new proof for the Bishop’ volume comparison theorem and also the “Bray’s football theorem”- a volume comparison theorem for scalar curvature in the case that the metric is close to the standard S^3 metric. We remark that the rigid case of Bray’s football theorem can be found in a beautiful survey paper written by Professor S.Brendle. (But we might not have the time cover it)
+
+References: [H. Bray, PhD thesis](https://arxiv.org/abs/0902.3241), [Guide to Boundary Value Problems for Dirac-Type Operators](https://arxiv.org/abs/2301.05087)
