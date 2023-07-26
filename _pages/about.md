@@ -17,7 +17,7 @@ redirect_from:
 
 🙇‍♂️ Right now, I am focusing on/studying the following topics: Stability of Blackholes, GCM construction (generally covariant modulated) introduce by Klainerman-Szeftel, positive scalar curvature (both minimal surface and Dirac operator approach) and so on. I am very willing to discuss and learn!
 
-🧑‍🏫 For seminars and talks, I co-organized two seminars in the past two semesters: one about [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/), another one about dihedral rigidity. (I will keep this list updated.) Besides giving talks in these two student seminars, I also gave several survey talks about wave equations and Blackhole existence, see my [talk lists](https://jingbowanmath.github.io/talks/).
+🧑‍🏫 For seminars and talks, I co-organized two seminars in the past two semesters: one about [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/), another one about [dihedral rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html). (I will keep this list updated.) Besides giving talks in these two student seminars, I also gave several survey talks about wave equations and Blackhole existence, see my [talk lists](https://jingbowanmath.github.io/talks/).
 
 🏃 I also enjoy walking and a little running, escpecially walks in Manhattan, Hong Kong, Beijing or other big cities.
 
