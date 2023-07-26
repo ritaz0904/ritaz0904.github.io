@@ -8,7 +8,7 @@ venue: 'arxiv preprint'
 paperurl: 'http://arxiv.org/abs/2301.07655'
 
 ---
-Consider a compact manifold N (with or without boundary) of dimension $n$. Positive $m-$intermediate curvature interpolates between positive Ricci curvature (m=1) and positive scalar curvature ($m=n−1$), and it is obstructed on partial tori Nn=Mn−m×𝕋m. Given Riemannian metrics $g,\tilde g$ on $(N,\partial N)$ with positive m-intermediate curvature and $m-$positive difference $h_g−h_{\tilde g}$ of second fundamental forms we show that there exists a smooth family of Riemannian metrics with positive $m-$intermediate curvature interpolating between $g$ and $\tilde g$. Moreover, we apply this result to prove a non-existence result for partial torical bands with positive $m-$intermediate curvature and strictly $m-$convex boundaries.
+Consider a compact manifold N (with or without boundary) of dimension $n$. Positive $m-$intermediate curvature interpolates between positive Ricci curvature ($m=1$) and positive scalar curvature ($m=n−1$), and it is obstructed on partial tori $N^n=M^{n−m}\times \mathbb{T}^m$. Given Riemannian metrics $g,\tilde g$ on $(N,\partial N)$ with positive $m-$intermediate curvature and $m-$positive difference $h_g−h_{\tilde g}$ of second fundamental forms we show that there exists a smooth family of Riemannian metrics with positive $m-$intermediate curvature interpolating between $g$ and $\tilde g$. Moreover, we apply this result to prove a non-existence result for partial torical bands with positive $m-$intermediate curvature and strictly $m-$convex boundaries.
 
 
 
