@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "👋Hello there, I'm Jingbo, who is fond of Geometric Analysis and General Relativity!"
+title: "👋Hello there, I'm Jingbo, 
+who is fond of Geometric Analysis and General Relativity!"
 excerpt: "About me" 
 author_profile: true
 redirect_from: 
