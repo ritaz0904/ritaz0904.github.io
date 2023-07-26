@@ -8,4 +8,7 @@ date: 2022-9-19
 location: "Columbia University"
 ---
 
-We give the basic ingredients for Stern’s Bochner formula and apply this formula to harmonic maps $M^3\rightarrow \mathbb{S}^1$ where $M$ is a compact three-manifold with or without boundary. This gives a beautiful inequality relating the average Euler characteristics of harmonic map’s level sets and the scalar curvature of $M$. References: [Scalar curvature and harmonic maps to S1](https://arxiv.org/abs/1908.09754), [Scalar curvature and harmonic one-forms on three-manifolds with boundary](https://arxiv.org/abs/1911.06803).
+We give the basic ingredients for Stern’s Bochner formula and apply this formula to harmonic maps $M^3\rightarrow \mathbb{S}^1$ where $M$ is a compact three-manifold with or without boundary. This gives a beautiful inequality relating the average Euler characteristics of harmonic map’s level sets and the scalar curvature of $M$. 
+
+
+References: [Scalar curvature and harmonic maps to S1](https://arxiv.org/abs/1908.09754), [Scalar curvature and harmonic one-forms on three-manifolds with boundary](https://arxiv.org/abs/1911.06803).
