@@ -1,0 +1,13 @@
+---
+title: "Maximum Principles and applications"
+collection: talks
+type: "Talk"
+#permalink: /talks/2022-12-12-Maximum-Principles-and-applications
+venue: "[Scalar Curvature and Topology Student Learning Seminar](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/)"
+date: 2022-12-12
+location: "Columbia University"
+---
+
+In this reading seminar talk, the speaker will present Hamilton’s Maximum Principle for Ricci flow and discuss applications for convergence of Ricci flow under certain positive curvature conditions. Then, as a comparison, the speaker will present a version of Bony’s strict maximum principle for degenerate elliptic equations and discuss its application on rigidity results (where we change the previous positive curvature conditions to non-negative curvature conditions). If time permits, the speaker will present and discuss some results where a version of Hamilton’s Maximum Principle or Bony’s strict maximum principle was applied. 
+
+Reference: Simon Brendle, “Ricci Flow and the Sphere Theorem”, Chapter 5 & 9.
