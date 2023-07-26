@@ -5,9 +5,7 @@ collection: publications
 excerpt: 'This paper is about the rigidity of map between compact manifolds with positive curvature, which is based on harmonic map heat flow approach.'
 date: 2023-6-21
 venue: 'arxiv preprint'
+paperurl: 'http://arxiv.org/abs/2306.12258'
 
 ---
-
-venue: 'arxiv preprint'
-paperurl: 'http://arxiv.org/abs/2306.12258'
-citation: 'Lee, M.C. and Wan, J., 2023. Rigidity of contracting map using harmonic map heat flow. arXiv preprint arXiv:2306.12258.'
+Motivated by the recent work of Tsai-Tsui-Wang, we consider the rigidity of map between compact manifolds with positive curvature. We show that distance non-increasing map between complex projective spaces is either an isometry or homotopically trivial. The rigidity result also holds on a wider class of manifolds with positive curvature and weaker contracting property on the map in between distance non-increasing and area non-increasing. This is based on the harmonic map heat flow.
