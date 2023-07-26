@@ -1,0 +1,13 @@
+---
+title: "Elliptic Boundary Value Problem for Dirac-Type Operators: Part 1"
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-2-15-Elliptic-Boundary-Value-Problem-for-Dirac-Type-Operators:-Part-1 
+venue: "[Student Geometric & Analysis Seminar (Spring 2023): Scalar Curvature and Dihedral Rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html)"
+date: 2023-2-15
+location: "Columbia University"
+---
+
+Dirac Operator is a powerful tool to study positive scalar curvature. Concerning positive scalar curvature on a manifold with boundary, it’s natural to ask how to formulate a valid boundary value problem for Dirac operator (1st order elliptic). In fact, Dirichlet boundary condition, which is natural for Laplacian operator (2nd order elliptic), turns out to be too strong for 1st order elliptic operators. In this talk, we focus on Dirac-type operators, with principal symbols capturing the Clifford relation just like the usual Dirac operator, and discuss some basic materials to get ready for elliptic boundary value problems. 
+
+References: [Boundary Value Problems for Elliptic Differential Operators of First Order](https://arxiv.org/abs/1101.1196), [Guide to Boundary Value Problems for Dirac-Type Operators](https://arxiv.org/abs/1307.3021)
