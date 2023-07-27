@@ -12,22 +12,14 @@ redirect_from:
 🧑‍🎓 I am a fourth year graduate student at Columbia University, supervised by both [Professor Mu-Tao Wang](http://www.math.columbia.edu/~mtwang/) and [Professor Elena Giorgi](http://www.math.columbia.edu/~egiorgi/). I was an undergraduate student in Hong Kong University of Science and technology, supervised by [Professor Frederick Fong](https://frederickfong.me).
 
 
-
-
-
 More about me
 ======
-✨ My research interests are differential gemeomtry, partial differential equation, general relativity and so on. I am particularly attracted by Black Hole which is the most fasinating object that exists in our spacetime!
 
+✨ My research interests are differential geometry, partial differential equation, general relativity and so on, especially various aspects of Blackholes.
 
-📃 So far, my appeared works are about uniqueness of a certain flow soliton, positively curved manifolds with boundary, wave equations on extremal Blackhole background and rigidity/isotopy of maps betwen positively curved manifolds. See my [publications list](https://jingbowanmath.github.io/publications/).
+📃 So far, my appeared works are about positive curved manifolds, geometric/heat flows or wave equations. See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/).
 
-
-🧑‍🏫 For seminars and talks, I co-organized two seminars in the past two semesters: one about [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/), another one about [dihedral rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html). (I will keep this list updated.) Besides giving talks in these two student seminars, I also gave several survey talks about wave equations and Blackhole existence, see my [talk lists](https://jingbowanmath.github.io/talks/).
-
-
-🏃 I also enjoy walking and a little running, escpecially walks in Manhattan, Hong Kong, Beijing or other big cities.
-
+🧑‍🏫 For seminars and talks, I co-organized two seminars in the past two semesters: one about [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/), another one about [dihedral rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html). For more talks I gave, see my [TALKS LIST](https://jingbowanmath.github.io/talks/).
 
 
 Useful Links
