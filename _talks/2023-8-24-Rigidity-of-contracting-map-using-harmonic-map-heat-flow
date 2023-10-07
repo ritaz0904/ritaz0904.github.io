@@ -1,0 +1,13 @@
+---
+title: "Rigidity of contracting map using harmonic map heat flow"
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-8-24-Rigidity-of-contracting-map-using-harmonic-map-heat-flow
+venue: "[HKUST SEMINAR ON PURE MATHEMATICS](https://www.math.hkust.edu.hk/intranet/file/?c=seminar_abstract&f=20230817172736_22-Jingbo%20WAN_0824.pdf)"
+date: 2023-8-24
+location: "THE HONG KONG UNIVERSITY OF SCIENCE & TECHNOLOGY"
+---
+
+In this talk, we are going to consider the rigidity of map between possibly curved closed manifolds, which is motivated by the recent work of Tsai-Tsui-Wang. We show that distance non-increasing map between complex projective spaces is either an isometry or homotopically trivial. The rigidity result also holds on a wider class of manifolds with positive curvature and weaker contracting property on the map in between distance non-increasing and area non-increasing. This is based on the harmonic map heat flow and it partially solves a Conjecture of Tsai-Tsui-Wang.
+
+References: [Rigidity of contracting map using harmonic map heat flow](https://arxiv.org/abs/2306.12258)
