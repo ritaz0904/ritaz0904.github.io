@@ -19,7 +19,7 @@ More about me
 
 📃 So far, my appeared works are about positive curved manifolds, geometric/heat flows or wave equations. See my [PUBLICATIONS LIST](https://jingbowanmath.github.io/publications/).
 
-🧑‍🏫 For seminars and talks, I co-organized two seminars in the past two semesters: one about [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/), another one about [dihedral rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html). For more talks I gave, see my [TALKS LIST](https://jingbowanmath.github.io/talks/).
+🧑‍🏫 For seminars and talks, I co-organized three seminars in Columbia University: one about [Scalar Curvature and Topology](https://math.columbia.edu/~axu/seminars/scalar-curvature-seminar-post/), one about [dihedral rigidity](http://math.columbia.edu/~ypharry/seminar/dihedral-rigidity.html) and also one about [geometric flows](http://math.columbia.edu/~ypharry/seminar/mcf). For more talks I gave, see my [TALKS LIST](https://jingbowanmath.github.io/talks/).
 
 
 Useful Links
