@@ -1,0 +1,13 @@
+---
+title: "Inverse Mean Curvature Flow and Riemannian Penrose Inequality: Part II "
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-12-4-Inverse-Mean-Curvature-Flow-and-Riemannian-Penrose-Inequality-Part-II
+venue: "[Student Geometric & Analysis Seminar (Fall 2023)](http://math.columbia.edu/~ypharry/seminar/mcf)"
+date: 2023-12-4
+location: "Columbia University"
+---
+
+Last time, we discussed the Geroch monotonicity of Hawking mass under smooth inverse mean curvature flow that can lead to Riemannian Penrose Inequality. We also gave a brief overview of Huisken-Ilmanen’s argument. In this talk, we aim to delve deeper into the intricacies of Huisken-Ilmanen’s weak formalism concerning the inverse mean curvature flow. To provide a more comprehensive understanding, we will focus on the freezing and variation approach, essential components in defining a weak solution for the level set inverse mean curvature flow. This approach not only grants us analytical advantages but also plays a crucial role in demonstrating the existence of weak solutions. To enhance our geometric understanding of weak IMCF, we will also cover an equivalence formulation utilizing sublevel sets. With both the analytic and geometric understanding of the weak IMCF, we will briefly talk about the heuristic reason for Geroch monotonicity along weak IMCF.
+
+References: [Huisken-Ilmanen: The Inverse Mean Curvature Flow and the Riemannian Penrose Inequality] [D.Lee: Geometric Relativity]
