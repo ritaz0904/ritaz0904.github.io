@@ -1,0 +1,15 @@
+---
+title: "Lagrangian Mean Curvature Flow in the Gibbon-Hawking Ansatz II"
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-10-16-Lagrangian-Mean-Curvature-Flow-in-the-Gibbon-Hawking-Ansatz-II
+venue: "[Complex Geometry Student Learning Seminar (Fall 2023)](https://www.math.columbia.edu/~sliang/seminar)"
+date: 2023-10-16
+location: "Columbia University"
+---
+
+We continue the discussion on LMCF in Hyperkahler 4-manifolds with circle symmetry. In this talk, we will discuss the hyperkahler moment map reduction of the LMCF where special Lagrangians will be mapped to certain line segments in the image and the LMCF will be reduced to a modified curve shortening flow. With all these understanding, we will give a heuristic outline of the Thomas conjecture and Thomas-Yau conjecture in this setting.
+
+References: 
+[Special Lagrangians, Lagrangian mean curvature flow and the Gibbons-Hawking ansatz](https://arxiv.org/abs/2002.10391)
+[Neck pinch singularities and Joyce conjectures in Lagrangian mean curvature flow with circle symmetry](https://arxiv.org/abs/2305.05744)
