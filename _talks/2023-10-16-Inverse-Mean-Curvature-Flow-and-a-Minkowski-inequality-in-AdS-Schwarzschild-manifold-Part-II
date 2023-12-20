@@ -1,0 +1,12 @@
+---
+title: "Inverse Mean Curvature Flow and a Minkowski inequality in AdS-Schwarzschild manifold, Part II"
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-10-16-Inverse-Mean-Curvature-Flow-and-a-Minkowski-inequality-in-AdS-Schwarzschild-manifold-Part-II
+venue: "[Student Geometric & Analysis Seminar (Fall 2023)](http://math.columbia.edu/~ypharry/seminar/mcf)"
+date: 2023-10-16
+location: "Columbia University"
+---
+
+We continue the discussion about IMCF and a Minkowksi inequality in AdS-Schwarzschild manifold. Last time, we went over the basic a priori estimates for IMCF using both the parametric and non-parametric versions of the flow. In particular, short time existence and long time existence were clarified. In this talk, we will delve into an improved roundness estimate for the flow and the monotonicity formula along the flow. It's worth noting that IMCF doesn't fully converge in asymptotically hyperbolic manifolds. To overcome this, we will rely on Beckner's sharp Sobolev inequality on standard spheres and a geometric inequality by Professor Brendle to estimate the lower bound of the monotone quantity as we approach the limit.
+References: [A Minkowski Inequality for Hypersurfaces in the Anti‐de Sitter‐Schwarzschild Manifold](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21556)
