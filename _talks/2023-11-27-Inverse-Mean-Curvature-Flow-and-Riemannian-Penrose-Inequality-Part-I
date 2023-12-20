@@ -1,0 +1,13 @@
+---
+title: "Inverse Mean Curvature Flow and Riemannian Penrose Inequality: Part I "
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-11-27-Inverse-Mean-Curvature-Flow-and-Riemannian-Penrose-Inequality-Part-I
+venue: "[Student Geometric & Analysis Seminar (Fall 2023)](http://math.columbia.edu/~ypharry/seminar/mcf)"
+date: 2023-11-27
+location: "Columbia University"
+---
+
+In mathematical general relativity, the Penrose inequality, first conjectured by Sir Roger Penrose, estimates the mass of a spacetime in terms of the total area of its black holes and is a generalization of the positive mass theorem. The Riemannian Penrose inequality is an important special case, which was first proved by Huisken-Ilmanen using the Inverse mean curvature flow in dimension three. As the first part of this series of talks, we are going to discuss some basic notions and the Geroch monotonicity of Hawking mass under smooth inverse mean curvature flow. After this brief introduction, we will focus on the Huisken-Ilmanen’s weak formalism of inverse mean curvature flow, which is the essential ingredient in the proof of Riemannian Penrose inequality. 
+
+References: [A Minkowski Inequality for Hypersurfaces in the Anti‐de Sitter‐Schwarzschild Manifold](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.21556)
