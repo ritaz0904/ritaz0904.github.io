@@ -1,0 +1,13 @@
+---
+title: "Bray’s conformal flow and Riemannian Penrose Inequality"
+collection: talks
+type: "Talk"
+#permalink: /talks/2023-12-11-Bray’s-conformal-flow-and-Riemannian-Penrose-Inequality
+venue: "[Student Geometric & Analysis Seminar (Fall 2023)](http://math.columbia.edu/~ypharry/seminar/mcf)"
+date: 2023-12-11
+location: "Columbia University"
+---
+
+This talk explores an alternative method for establishing the Riemannian Penrose inequality through Bray’s conformal flow. The conformal flow preserves the non-negativity of scalar curvature and the outermost minimizing property of the inner boundary. By using the positive mass theorem, one can demonstrate that the ADM mass is non-increasing under Bray’s conformal flow, eventually converging to half of Schwarzschild space. This convergence implies the desired Riemannian Penrose inequality. Notably, Bray’s approach offers advantages over IMCF approach, as it can be generalized to dimensions less than eight due to the absence of Gauss-Bonnet and enhances the inequality by replacing the area of the largest component of the horizon with the total area of the horizon, owing to fewer topology restrictions on the flow. 
+
+References: [Hubert L. Bray: Proof of the Riemannian Penrose Inequality Using the Positive Mass Theorem][Hubert L. Bray, Dan A. Lee: On the Riemannian Penrose inequality in dimensions less than eight][Dan A. Lee: Geometric Relativity]
