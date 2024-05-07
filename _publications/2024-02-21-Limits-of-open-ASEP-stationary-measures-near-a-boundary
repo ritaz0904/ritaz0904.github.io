@@ -1,0 +1,14 @@
+---
+title: "Limits of open ASEP stationary measures near a boundary"
+collection: publications
+# permalink: ZongruiYang1.github.io/_publications/2024-02-21-Limits-of-open-ASEP-stationary-measures-near-a-boundary
+excerpt: 'This paper is about the natural boundary effects/conditions for the positive intermediate curvature condition introduced by Brendle-Hirsch-Johne.'
+date: 2024-02-21
+venue: 'arXiv preprint'
+paperurl: 'https://doi.org/10.48550/arXiv.2402.13675'
+
+---
+Consider the stationary measure of open asymmetric simple exclusion process (ASEP) on the lattice $\{1,\dots,n\}$. Taking $n$ to infinity while fixing the jump rates, this measure converges to a measure on the semi-infinite lattice. In the high and low density phases,  we characterize the limiting measure and also show that this convergence occurs  in total variation distance on a sublattice of scale $n/\log n$. Our approach involves bounding the total variation distance using generating functions, which are further estimated through a subtle analysis of the atom masses of Askey--Wilson signed measures.
+
+
+
