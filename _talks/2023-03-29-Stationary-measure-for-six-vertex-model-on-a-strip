@@ -1,0 +1,11 @@
+---
+title: "Stationary measure for six-vertex model on a strip"
+collection: talks
+type: "Talk"
+#permalink: ZongruiYang1.github.io/_talks/2023-03-29-Stationary-measure-for-six-vertex-model-on-a-strip
+venue: "[Taft Research Seminar on Probability Theory and its Applications (Spring 2023)](https://homepages.uc.edu/~brycwz/Taft-2023.html)"
+date: 2023-03-29
+location: "University of Cincinnati"
+---
+
+In this talk we will study a family of Markov chains governed by the six-vertex model on a strip. Their stationary measure can be solved by the matrix product ansatz and then characterized by the Askey-Wilson process. We study the limit of mean particle density and obtain the phase diagram.
