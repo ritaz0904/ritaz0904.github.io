@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Hong Kong University of Science and Technology, 2020
-* Ph.D in Mathematics, Columbia University, 2025 (expected)
+* B.S. in Mathematics, Peking University, 2020
+* Ph.D in Mathematics, Columbia University, 2026 (expected)
 
 
 Publications
