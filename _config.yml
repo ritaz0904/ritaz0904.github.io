@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingbo's Homepage"
+title                    : "Zongrui's Homepage"
 title_separator          : "-"
-name                     : &name "Jingbo Wan"
+name                     : &name "Zongrui Yang"
 description              : &description "personal description"
-url                      : https://JingboWanMath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZongruiYang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JingboWanMath/JingboWanMath.github.io/"
+repository               : "ZongruiYang1/ZongruiYang1.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingbo Wan"
+  name             : "Zongrui Yang"
   avatar           : "profile-pic-min.png"
   bio              : "Math PhD student"
   location         : "Manhattan, New York"
