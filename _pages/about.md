@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi there, I'm Zongrui, 
-who is fond of KPZ Universality and Integrable Probability!"
+who is fond of Integrable Probability and KPZ Universality!"
 excerpt: "About me" 
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ I am a fourth year PhD candidate at Columbia University, supervised by [Professo
 More about me
 ======
 
-My research interests mainly lie in integrable probability and Kardar–Parisi–Zhang (KPZ) universality, with a particular focus on interacting particle systems, directed polymer models and stationary measures.
+My research interests mainly lie in integrable probability and Kardar–Parisi–Zhang (KPZ) universality, with a particular focus on interacting particle systems, directed polymer models, the six-vertex model and their stationary measures.
 
 So far, my appeared works are about stationary measures for the open asymmetric simple exclusion process and for integrable polymers and six-vertex models on a strip. See my [PUBLICATIONS LIST](https://ZongruiYang1.github.io/publications/).
 
