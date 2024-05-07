@@ -1,0 +1,11 @@
+---
+title: "Stationary measures for integrable models with two open boundaries"
+collection: talks
+type: "Talk"
+#permalink: ZongruiYang1.github.io/_talks/2024-02-29-Stationary-measures-for-integrable-models-with-two-open-boundaries
+venue: "[UW Madison Probability Seminar (2024 Spring)](https://wiki.math.wisc.edu/index.php/Probability_Seminar)"
+date: 2024-02-29
+location: "University of Wisconsin-Madison"
+---
+
+We present two methods to study the stationary measures of integrable systems with two open boundaries. The first method is based on Askey-Wilson signed measures, which is illustrated for the open asymmetric simple exclusion process and the six-vertex model on a strip. The second method is based on two-layer Gibbs measures and is illustrated for the geometric last-passage percolation and log-gamma polymer on a strip. This talk is based on joint works with Yizao Wang, Jacek Wesolowski, Guillaume Barraquand and Ivan Corwin.
