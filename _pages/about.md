@@ -15,8 +15,8 @@ I am a fourth year PhD candidate at Columbia University, supervised by [Professo
 More about me
 ======
 
-My research interests mainly lie in integrable probability and KPZ universality, with a particular focus on interacting particle systems, polymer models and their stationary measures.
+My research interests mainly lie in integrable probability and Kardar–Parisi–Zhang (KPZ) universality, with a particular focus on interacting particle systems, directed polymer models and stationary measures.
 
-So far, my appeared works are about stationary measures for the open ASEP and for integrable polymers and six-vertex models on a strip. See my [PUBLICATIONS LIST](https://ZongruiYang1.github.io/publications/).
+So far, my appeared works are about stationary measures for the open asymmetric simple exclusion process and for integrable polymers and six-vertex models on a strip. See my [PUBLICATIONS LIST](https://ZongruiYang1.github.io/publications/).
 
 For the talks I gave, see my [TALKS LIST](https://ZongruiYang1.github.io/talks/).
