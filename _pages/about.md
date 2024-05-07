@@ -17,6 +17,6 @@ More about me
 
 My research interests mainly lie in integrable probability and KPZ universality, with a particular focus on interacting particle systems, polymer models and their stationary measures.
 
-So far, my appeared works are about stationary measures for the open asymmetric simple exclusion process and stationary measures for integrable polymers and six-vertex models on a strip. See my [PUBLICATIONS LIST](https://ZongruiYang1.github.io/publications/).
+So far, my appeared works are about stationary measures for the open ASEP and for integrable polymers and six-vertex models on a strip. See my [PUBLICATIONS LIST](https://ZongruiYang1.github.io/publications/).
 
 For the talks I gave, see my [TALKS LIST](https://ZongruiYang1.github.io/talks/).
