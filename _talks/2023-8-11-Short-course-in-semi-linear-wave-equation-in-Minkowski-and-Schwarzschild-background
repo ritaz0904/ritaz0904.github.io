@@ -1,13 +1,12 @@
 ---
-title: "Short course in semi-linear wave equation in Minkowski and Schwarzschild background"
+title: "Askey-Wilson signed measures and open ASEP in the shock region"
 collection: talks
 type: "Talk"
-#permalink: /talks/2023-8-11-Short-course-in-semi-linear-wave-equation-in-Minkowski-and-Schwarzschild-background
-venue: "[CUHK seminar in geometric analysis]"
-date: 2023-8-11
-location: "501a, IMS"
+#permalink: ZongruiYang1.github.io/_talks/2023-10-06-Askey-Wilson-signed-measures-and-open-ASEP-in-the-shock-region
+venue: "[The Asymmetric Simple Exclusion Process: October 2-6, 2023]"
+date: 2023-10-06
+location: "Simons Center for Geometry and Physics"
 ---
 
-Lecture series on 11/8, 18/8, 25/8, 1/9(cancelled due to Typhoon)
+In this talk, we will present a new method for studying the stationary measure of the open asymmetric simple exclusion process (ASEP) in the shock region. We introduce a family of multi-dimensional Askey-Wilson signed measures and then describe the joint generating function of the open ASEP stationary measure in terms of integrations with respect to these Askey-Wilson signed measures. As an application, we offer a rigorous derivation of the density profile and limit fluctuations of the open ASEP in the shock region, confirming the existing physics postulations. This is a joint work with Yizao Wang and Jacek Wesolowski.
 
-References: [John Stogin's PhD thesis](https://dataspace.princeton.edu/handle/88435/dsp01p5547t983)
