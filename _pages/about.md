@@ -15,8 +15,8 @@ I am a fifth year PhD candidate at University of Pennsylvania, supervised by [Pr
 More about me
 ======
 
-My research interests mainly lie in integrable probability and Kardar–Parisi–Zhang (KPZ) universality, with a particular focus on interacting particle systems, directed polymer models, six-vertex models and their stationary measures.
+My research interests mainly lie in diffusion MRI based brain microstructure modelling using both analytical and machine learning approaches. 
 
-So far, my appeared works are about stationary measures for the open asymmetric simple exclusion process and for integrable polymer models and six-vertex models on a strip. See my [PUBLICATIONS LIST](https://ZongruiYang1.github.io/publications/).
+See my [PUBLICATIONS LIST](https://ritaz0904.github.io/publications/).
 
-For the talks I gave, see my [TALKS LIST](https://ZongruiYang1.github.io/talks/).
+For the talks I gave, see my [TALKS LIST](https://ritaz0904.github.io/talks/).
