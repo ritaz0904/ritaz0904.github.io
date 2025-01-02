@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hi there, I'm Zongrui, 
-who is fond of Integrable Probability and KPZ Universality!"
+title: "Hi there, I'm Tianjia, 
+who is fond of diffusion MRI-based microstructure modelling!"
 excerpt: "About me" 
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD candidate at Columbia University, supervised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/). I was an undergraduate student in Peking University.
+I am a fifth year PhD candidate at University of Pennsylvania, supervised by [Professor Hao Huang]([https://www.med.upenn.edu/huanglab/]). I was an undergraduate student in Rice University.
 
 
 More about me
