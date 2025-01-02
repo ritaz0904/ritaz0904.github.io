@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zongrui's Homepage"
+title                    : "Tianjia Zhu's Homepage"
 title_separator          : "-"
-name                     : &name "Zongrui Yang"
+name                     : &name "Tianjia Zhu"
 description              : &description "personal description"
-url                      : https://ZongruiYang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ritaz0904.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZongruiYang1/ZongruiYang1.github.io/"
+repository               : "ritaz0904/ritaz0904.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zongrui Yang"
+  name             : "Tianjia Zhu"
   avatar           : "Zongrui(1)(1).png"
-  bio              : "Math PhD student"
-  location         : "Manhattan, New York"
-  employer         : "Columbia University"
+  bio              : "Bioengineering PhD student"
+  location         : "Philadelphia, Pennsylvania"
+  employer         : "University of Pennsylvania"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7ivO_CsAAAAJ&hl=en&oi=ao"
-  email            : "zy2417@columbia.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=0T_xmBEAAAAJ&hl=zh-CN"
+  email            : "tianjiaz@seas.upenn.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZongruiYang1"
+  github           : "ritaz0904"
   google_plus      :
   keybase          :
   instagram        :
